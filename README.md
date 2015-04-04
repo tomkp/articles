@@ -9,9 +9,9 @@ Creating readable tests with the Asserter pattern.
 ---
 
 
-###FlexBox for fun
+###Flexbox for fun
   
-Using FlexBox for layouts.
+Using Flexbox for layouts.
 
 
 ---
